@@ -1,0 +1,39 @@
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\appsettings.json
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\JWT Token.exe
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\JWT Token.deps.json
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\JWT Token.runtimeconfig.json
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\JWT Token.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\JWT Token.pdb
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\JWT Token.csproj.AssemblyReference.cache
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\JWT Token.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\JWT Token.AssemblyInfoInputs.cache
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\JWT Token.AssemblyInfo.cs
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\JWT Token.csproj.CoreCompileInputs.cache
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\JWT Token.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\JWT Token.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\staticwebassets\msbuild.JWT Token.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\staticwebassets\msbuild.build.JWT Token.props
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JWT Token.props
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JWT Token.props
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\scopedcss\bundle\JWT Token.styles.css
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\JWT Token.csproj.CopyComplete
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\JWT Token.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\refint\JWT Token.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\JWT Token.pdb
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\JWT Token.genruntimeconfig.cache
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\obj\Debug\net7.0\ref\JWT Token.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rosha\Documents\dot net\JWT Token\JWT Token\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
